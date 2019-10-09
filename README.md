@@ -1,5 +1,5 @@
 [![Latest Version](https://img.shields.io/github/release/softonic/elasticsearch.svg?style=flat-square)](https://github.com/softonic/elasticsearch/releases)
-[![Software License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=flat-square)](LICENSE.md)
+[![Software License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=flat-square)](LICENSE)
 ![Docker Automated build](https://img.shields.io/docker/automated/softonic/elasticsearch)
 ![Docker Build Status](https://img.shields.io/docker/build/softonic/elasticsearch)
 ![Docker Pulls](https://img.shields.io/docker/pulls/softonic/elasticsearch)
